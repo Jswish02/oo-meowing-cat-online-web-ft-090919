@@ -1,7 +1,6 @@
 class Cat 
 attr_accessor :name
 attr_reader :meow
-attr_writer
+attr_writer :meow!
 end
- def 
 end
