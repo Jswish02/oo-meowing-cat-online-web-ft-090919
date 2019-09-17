@@ -1,6 +1,6 @@
 class Cat 
 attr_accessor :name
-def meow=(meow!)
+def meow=(meow)
   @meow = "meow!"
 end
  def meow
